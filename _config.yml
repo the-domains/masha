@@ -1,0 +1,28 @@
+name: Masha
+favicon: null
+layout_spectrum: 0.8419079806189984
+typography_spectrum: 0.2335522382054478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9126368251163512
+  lightness: 0.5197355540003628
+  saturation: 0.27369888848625124
+  rhythmicContrast: 0.40836096880957484
+purpose: []
